@@ -5,6 +5,3 @@
 # Date: 2022-12-02
 
 print("Hello World")
-
-git init -b main
-git add . && git commit -m "initial commit"
