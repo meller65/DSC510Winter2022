@@ -19,7 +19,7 @@ print ('Thank You \n' + company_name)
 # number of feet
 optic_cable = float(input('How many feet will you be installing?\n'))
 optic_cable_calc = optic_cable *.87
-print('Your calculated cost is\n $' + str(optic_cable_calc) )
+print('Your calculated cost is\n $' + str(f"{optic_cable_calc:,}") )
 
 
 
@@ -27,6 +27,6 @@ print('Your calculated cost is\n $' + str(optic_cable_calc) )
 print('****Receipt****')
 print('Company Name:\n'+ company_name)
 print('Feet To Be Installed:\n' + str(optic_cable))
-print('Calculated Cost:\n $' + str(optic_cable_calc) )
-print('Total Cost:\n $' + str(optic_cable_calc) )
+print('Calculated Cost:\n $' +str(f"{optic_cable_calc:,}") )
+print('Total Cost:\n $' + str(f"{optic_cable_calc:,}") )
 print('****Thank You****')
