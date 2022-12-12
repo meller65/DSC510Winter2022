@@ -13,7 +13,7 @@ address = ("1775 Stagecoach Ct. Powell, OH 43065")
 Phone = ("614-398-7878")
 Good_Bye_Message = ("Thank you for your business")
 
-# Instalation cost per foot
+# InstalLation cost per foot
 installation_cost = 0.87
 
 # Month and year of the transaction
