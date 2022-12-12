@@ -1,9 +1,10 @@
 """
-DSC 510
-Week 2
-Programming Assignment 2.1
-Gloria Torres
-12.09.2022
+Course: DSC 510
+Purpose: Demonstrate fundamentals of programming with Python variables and math operations
+Week: 2
+Assignment:Programming Assignment 2.1
+Student: Gloria Torres
+Created: 12.09.2022
 """
 # Business information
 print("Welcome to G&M")
