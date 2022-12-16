@@ -6,8 +6,7 @@
 
 #Change Control Log:
     #Change#:1
-    #Change(s) Made: Added evaluations based on bulk discount for 100+, 250+, and 500+ feet of fiber optic cable.
-                     #Added additional comments for increase clarity
+    #Change(s) Made: Added evaluations based on bulk discount for 100+, 250+, and 500+ feet of fiber optic cable. Added additional comments for increase clarity
     #Date of Change: 12/16/2022
     #Author: Megan Steinel
     #Change Approved by: Megan Steinel
