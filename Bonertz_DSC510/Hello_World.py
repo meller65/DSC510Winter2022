@@ -1,1 +1,4 @@
-print('Hello World')
+# Assignment 1.2
+print('Hello World :-)')
+
+
