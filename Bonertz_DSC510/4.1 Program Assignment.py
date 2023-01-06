@@ -5,9 +5,16 @@
 # 01/04/2023
 
 
-print('Hello!')
-name = input('Please Type Your Company Name.')
-print('Welcome', name)
+def main():
+    print("Hello!")
+
+
+if __name__ == "__main__":
+    main()
+
+
+companyname = input('Please Type Your Company Name.')  # changed name to companyname
+print('Welcome', companyname)
 
 
 def calculation(feetofcable, price):    # Added Function
@@ -30,6 +37,6 @@ else:
 print("$", "%.2f" % costperfoot)
 
 total_cost = calculation(feet, costperfoot)   # called the calculation function
-print('Total Cost for', name, 'is', '$', ("%.2f" % total_cost))
+print('Total Cost for', companyname, 'is', '$', ("%.2f" % total_cost))
 print('Thank you for your business!')
 # removed spaces
