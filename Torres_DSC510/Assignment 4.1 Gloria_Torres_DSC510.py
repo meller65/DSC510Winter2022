@@ -49,13 +49,13 @@ feet = int(number_of_feet_to_be_installed)
 def cost(installation, tax, total):
 
     if feet <= 100:
-        installation_cost = float(.87)
+        installation_cost = .87
     elif feet <= 250:
-        installation_cost = float(.80)
+        installation_cost = .80
     elif feet <= 500:
-        installation_cost = float(.70)
+        installation_cost = .70
     else:
-        installation_cost = float(.50)
+        installation_cost = .50
 
 # Calculation of subtotal,tax and total
 
