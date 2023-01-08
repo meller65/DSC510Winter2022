@@ -13,7 +13,7 @@
 # Change(s) Made: Modify IF Statement program to add a function to do the heavy lifting
 # Date of change:01/05/2023
 # Author:Gloria Torres
-# Change(s): Line 21, 26,28,44,64,66,82 and 84
+# Change(s): Lines 20-23,26-28,31,32,49-58,72-77 and 93-98
 
 
 # Welcome message
